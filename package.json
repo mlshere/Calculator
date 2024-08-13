@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "description": "A calculator app built with React",
-  "main": "App.tsx",
+  "main": "main.tsx",
   "repository": {
     "type": "git",
     "url": "https://github.com/mlshere/Calculator.git"
